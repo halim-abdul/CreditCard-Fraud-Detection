@@ -1,0 +1,15 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+xgboost>=2.1
+lightgbm>=4.5
+imbalanced-learn>=0.12
+optuna>=4.0
+shap>=0.46
+matplotlib>=3.9
+seaborn>=0.13
+joblib>=1.4
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.9
+pytest>=8.3
