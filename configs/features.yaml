@@ -1,0 +1,8 @@
+basic:
+  amount_log1p: true
+  amount_sqrt: true
+  cyclic_time: true
+velocity:
+  enabled: false
+  windows: ["5min", "1h", "24h"]
+robust_scaling: true
